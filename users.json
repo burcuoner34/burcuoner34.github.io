@@ -1,0 +1,156 @@
+[
+    {
+        "id": "seda-nur-akman",
+        "ad": "Seda",
+        "adsoyad": "Seda Nur Akman",
+        "yas": "23",
+        "burc": "İkizler",
+        "kilo": "53 KG",
+        "boy": "172 CM",
+        "img": "/img/seda-nur-akman/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Beylikdüzü",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Kadın",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/seda-nur-akman/2.jpg" }
+        ]
+    },
+    {
+        "id": "elif-buse-dogan",
+        "ad": "Elif",
+        "adsoyad": "Elif Buse Doğan",
+        "yas": "26",
+        "burc": "Terazi",
+        "kilo": "67 KG",
+        "boy": "178 CM",
+        "img": "/img/elif-buse-dogan/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Beşiktaş",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Kadın",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/elif-buse-dogan/2.jpg" }
+        ]
+    },
+    {
+        "id": "ayse-acar-basaran",
+        "ad": "Ayşe",
+        "adsoyad": "Ayşe Acar Başaran",
+        "yas": "19",
+        "burc": "Yengeç",
+        "kilo": "54 KG",
+        "boy": "163 CM",
+        "img": "/img/ayse-acar-basaran/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Şişli",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Kadın",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/ayse-acar-basaran/2.jpg" }
+        ]
+    },
+    {
+        "id": "burcu-bilgin",
+        "ad": "Burcu",
+        "adsoyad": "Burcu Bilgin",
+        "yas": "21",
+        "burc": "Oğlak",
+        "kilo": "57 KG",
+        "boy": "168 CM",
+        "img": "/img/burcu-bilgin/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Avcılar",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Kadın",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/burcu-bilgin/2.jpg" }
+        ]
+    },
+    {
+        "id": "emir-sarrafoglu",
+        "ad": "Emir",
+        "adsoyad": "Emir Sarrafoğlu",
+        "yas": "29",
+        "burc": "Akrep",
+        "kilo": "79 KG",
+        "boy": "182 CM",
+        "img": "/img/emir-sarrafoglu/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Küçükçekmece",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Erkek",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/emir-sarrafoglu/1.jpg" }
+        ]
+    },
+    {
+        "id": "mert-armagan",
+        "ad": "Mert",
+        "adsoyad": "Mert Armağan",
+        "yas": "27",
+        "burc": "Koç",
+        "kilo": "76 KG",
+        "boy": "178 CM",
+        "img": "/img/mert-armagan/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Bakırköy",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Erkek",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/mert-armagan/1.jpg" }
+        ]
+    },
+    {
+        "id": "burak-keskin",
+        "ad": "Burak",
+        "adsoyad": "Burak Keskin",
+        "yas": "25",
+        "burc": "Akrep",
+        "kilo": "80 KG",
+        "boy": "185 CM",
+        "img": "/img/burak-keskin/1.jpg",
+        "tel": "+7-9058907942",
+        "whatsapp": "79058907942",
+        "uyruk": "Türkiye Cumhuriyeti",
+        "il": "İstanbul",
+        "ilce": "Şişli",
+        "hakkimda": "Yalnız bırakmayacak, yanımda olacak, sohbeti falan güzel biri yok mu ki? Buradan ilan açmanın nedeni de artık gerçek hayattaki arkadaşlıklara güvenmiyorum.",
+        "mekan": "Fark etmez",
+        "type": "Erkek",
+        "tarih": "28 Aralık 2021 Salı",
+        "gallery": [
+            { "img": "/img/burak-keskin/1.jpg" }
+        ]
+    }
+]
